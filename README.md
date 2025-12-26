@@ -21,7 +21,7 @@ InsightGen is an end-to-end Generative AI tool that allows business users to "ta
 
 ## 📋 Prerequisites
 - Python 3.10+
-- A Groq API Key (Free at [console.groq.com](https://console.groq.com))
+- A Groq API Key 
 
 ---
 
