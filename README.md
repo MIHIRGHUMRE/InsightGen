@@ -1,4 +1,4 @@
-# 📊 InsightGen: GenAI-Powered Dashboard Generator
+# 📊 InsightGen – GenAI-Powered Data Analytics Application
 
 InsightGen is an end-to-end Generative AI tool that allows business users to "talk" to their databases. It translates natural language questions into optimized SQL queries and automatically generates interactive dashboards.
 
